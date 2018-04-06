@@ -1,0 +1,16 @@
+
+# [utorrent]
+0.0.0.0 bundles.bittorrent.com
+0.0.0.0 apps.bittorrent.com
+0.0.0.0 ads.bittorrent.com
+0.0.0.0 offers.bittorrent.com
+0.0.0.0 services.bunndle.com
+0.0.0.0 cdn.ap.bittorrent.com
+0.0.0.0 beta.bundles.bittorrent.com
+0.0.0.0 67.215.246.203
+0.0.0.0 67.215.246.204
+0.0.0.0 82.221.103.245
+0.0.0.0 82.221.103.246
+0.0.0.0 111.119.15.31
+0.0.0.0 111.119.15.32
+# [utorrent]
