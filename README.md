@@ -1,5 +1,9 @@
 # blacklists
 
+##how to include in pi-hole?
+Use the tip tag to include the files like this:
+https://bitbucket.org/tbessenreither/blacklists/raw/tip/combined.txt
+
 ##combined
 all the blacklists in one file
 
