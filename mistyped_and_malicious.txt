@@ -1,0 +1,4 @@
+
+#Mistyped
+127.0.0.1 amazo.de www.amazo.de
+#Mistyped

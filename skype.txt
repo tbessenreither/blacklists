@@ -1,3 +1,4 @@
+
 #skype addblock
 127.0.0.1 rad.msn.com
 127.0.0.1 live.rads.msn.com
@@ -8,3 +9,4 @@
 127.0.0.1 b.ads2.msads.net
 127.0.0.1 ac3.msn.com
 127.0.0.1 apps.skype.com
+#skype addblock
