@@ -3,6 +3,15 @@
 127.0.0.1 amazo.de www.amazo.de
 #Mistyped
 
+#mobilegames
+127.0.0.1 tuanguwen.com
+127.0.0.1 market-bi.tuanguwen.com
+127.0.0.1 solitaire-tm-basic-v3-lb.tuanguwen.com
+127.0.0.1 acernidus-web.appspot.com
+127.0.0.1 house.aatkit.com
+#mobilegames
+
+
 #skype addblock
 127.0.0.1 rad.msn.com
 127.0.0.1 live.rads.msn.com
