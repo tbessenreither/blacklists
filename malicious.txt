@@ -1,0 +1,10 @@
+
+#malicious
+0.0.0.0 1987814669.rsc.cdn77.org
+0.0.0.0 m.tipico.de
+0.0.0.0 riyu72.bid
+0.0.0.0 jowa46.bid
+0.0.0.0 sexy.bitbitrk.com
+0.0.0.0 wehede13.bid
+0.0.0.0 click.amazingmobi.com amazingmobi.com
+#malicious
