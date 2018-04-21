@@ -1,5 +1,6 @@
 
 #malicious
+#explosm delivering shitbucket adds again
 0.0.0.0 1987814669.rsc.cdn77.org
 0.0.0.0 m.tipico.de
 0.0.0.0 www.riyu72.bid
