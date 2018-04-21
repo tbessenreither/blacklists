@@ -2,9 +2,30 @@
 #malicious
 0.0.0.0 1987814669.rsc.cdn77.org
 0.0.0.0 m.tipico.de
-0.0.0.0 riyu72.bid
-0.0.0.0 jowa46.bid
+0.0.0.0 www.riyu72.bid
+0.0.0.0 www.jowa46.bid
 0.0.0.0 sexy.bitbitrk.com
-0.0.0.0 wehede13.bid
+0.0.0.0 www.wehede13.bid
 0.0.0.0 click.amazingmobi.com amazingmobi.com
+0.0.0.0 oad.taptica.com
+0.0.0.0 activeoffers.appromoters.com
+0.0.0.0 bulk-click.startappservice.com
+0.0.0.0 app.adjust.com
+0.0.0.0 sub1.trackadserver.com sub2.trackadserver.com sub3.trackadserver.com sub4.trackadserver.com sub5.trackadserver.com
+0.0.0.0 spykemedia.go2affise.com
+0.0.0.0 clk.taptica.com
+0.0.0.0 c.snnd.co
+0.0.0.0 trace.ymtrack10.co
+0.0.0.0 polzato.com
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 pixel.locarta.co
+0.0.0.0 eur-ukp.adsrvr.org
+0.0.0.0 66ksw.com
+0.0.0.0 delivery-europe-west-1.openx.netdeli
+0.0.0.0 wins.t.nl.g2trk.com
+0.0.0.0 track.venatusmedia.com
+0.0.0.0 rtb.openx.net
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 venatusmedia-d.openx.net
+0.0.0.0 5603651.fls.doubleclick.net
 #malicious
