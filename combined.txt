@@ -1,4 +1,8 @@
 
+#ad distribution networks
+0.0.0.0 yt.moatads.com yts.moatads.com
+#ad distribution networks
+
 #malicious
 #explosm delivering shitbucket adds again
 0.0.0.0 1987814669.rsc.cdn77.org
