@@ -8,6 +8,11 @@ all the blacklists in one file
 
 https://bitbucket.org/tbessenreither/blacklists/raw/tip/combined.txt
 
+##adn
+regular ad distribution networks
+
+https://bitbucket.org/tbessenreither/blacklists/raw/tip/adn.txt
+
 ##malicious
 malicious add serving sites
 
