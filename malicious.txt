@@ -29,4 +29,5 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 venatusmedia-d.openx.net
 0.0.0.0 5603651.fls.doubleclick.net
+0.0.0.0 e-aldi.ga
 #malicious
