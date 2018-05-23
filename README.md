@@ -37,3 +37,8 @@ https://bitbucket.org/tbessenreither/blacklists/raw/tip/spybot_snd.txt
 disables adds and anoying stuff in utorrent
 
 https://bitbucket.org/tbessenreither/blacklists/raw/tip/utorrent.txt
+
+#External
+Lists that are not from me but checked and copied because i don't trust anybody
+
+* https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
