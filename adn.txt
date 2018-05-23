@@ -1,4 +1,15 @@
 
 #ad distribution networks
-0.0.0.0 yt.moatads.com yts.moatads.com
+#push and conversion
+yt.moatads.com yts.moatads.com
+bos.ads.nexage.com
+p2p1.nwsvr2.com p2p2.nwsvr2.com
+ads.mopub.com
+foxpush.com www.foxpush.com publisher.foxpush.com
+push1.foxpush.com push2.foxpush.com push3.foxpush.com push4.foxpush.com push5.foxpush.com
+pushwoosh.com
+apptimize.com
+liftoff.io
+aatkit.com
+wywy.com
 #ad distribution networks
