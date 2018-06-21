@@ -12,6 +12,8 @@ apptimize.com
 liftoff.io
 aatkit.com
 wywy.com
+adups.cn
+adservice.google.de adservice.google.com
 #ad distribution networks
 
 #malicious
@@ -15573,6 +15575,14 @@ wywy.com
 127.0.0.1 www.dlappzonenorth.com
 127.0.0.1 dlappzonenorth.com
 # End of entries inserted by Spybot - Search & Destroy
+
+#Tracker List
+#redshell
+api.redshell.io
+in.treasuredata.com
+gamesight.io
+
+#Tracker List
 
 # [utorrent]
 0.0.0.0 bundles.bittorrent.com

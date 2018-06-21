@@ -1,0 +1,17 @@
+js.live.net
+apis.live.net
+ocws.officeapps.live.com
+roaming.officeapps.live.com
+pf.directory.live.com
+auth.gfx.ms
+cdn.odc.officeapps.live.com
+odc.officeapps.live.com
+nexus.officeapps.live.com
+login.live.com
+omextemplates.content.office.net
+templateservice.office.com
+config.edge.skype.com
+client-office365-tas.msedge.net
+nexusrules.officeapps.live.com
+officeclient.microsoft.com
+contentstorage.osi.office.net
