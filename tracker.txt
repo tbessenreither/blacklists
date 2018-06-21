@@ -1,0 +1,8 @@
+
+#Tracker List
+#redshell
+api.redshell.io
+in.treasuredata.com
+gamesight.io
+
+#Tracker List

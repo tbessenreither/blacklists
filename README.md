@@ -33,6 +33,11 @@ my age old spybot search and destroy blacklist i use since Windows XP
 
 https://bitbucket.org/tbessenreither/blacklists/raw/tip/spybot_snd.txt
 
+## tracker
+a list containing domains of tracking software and services
+
+https://bitbucket.org/tbessenreither/blacklists/raw/tip/tracker.txt
+
 ##utorrent
 disables adds and anoying stuff in utorrent
 
