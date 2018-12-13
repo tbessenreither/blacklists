@@ -1,10 +1,10 @@
 
 #mobilegames
-127.0.0.1 tuanguwen.com
-127.0.0.1 market-bi.tuanguwen.com
-127.0.0.1 solitaire-tm-basic-v3-lb.tuanguwen.com
-127.0.0.1 acernidus-web.appspot.com
-127.0.0.1 house.aatkit.com
-127.0.0.1 adups.cn
+tuanguwen.com
+market-bi.tuanguwen.com
+solitaire-tm-basic-v3-lb.tuanguwen.com
+acernidus-web.appspot.com
+house.aatkit.com
+adups.cn
 #mobilegames
 
