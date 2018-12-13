@@ -14,6 +14,12 @@ aatkit.com
 wywy.com
 adups.cn
 adservice.google.de adservice.google.com
+events.gfe.nvidia.com
+edgecast-test.ora.tv
+hipcam.net
+services.zinio.com
+
+
 #ad distribution networks
 
 #malicious
@@ -56,12 +62,13 @@ adservice.google.de adservice.google.com
 #Mistyped
 
 #mobilegames
-127.0.0.1 tuanguwen.com
-127.0.0.1 market-bi.tuanguwen.com
-127.0.0.1 solitaire-tm-basic-v3-lb.tuanguwen.com
-127.0.0.1 acernidus-web.appspot.com
-127.0.0.1 house.aatkit.com
-127.0.0.1 adups.cn
+tuanguwen.com
+market-bi.tuanguwen.com
+solitaire-tm-basic-v3-lb.tuanguwen.com
+acernidus-web.appspot.com
+house.aatkit.com
+adups.cn
+services.zinio.com
 #mobilegames
 
 
@@ -15582,6 +15589,8 @@ adservice.google.de adservice.google.com
 api.redshell.io
 in.treasuredata.com
 gamesight.io
+wifi-test.mobidia.com
+www.cloud.acer.com
 
 #Tracker List
 

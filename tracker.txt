@@ -4,5 +4,7 @@
 api.redshell.io
 in.treasuredata.com
 gamesight.io
+wifi-test.mobidia.com
+www.cloud.acer.com
 
 #Tracker List

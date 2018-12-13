@@ -14,4 +14,10 @@ aatkit.com
 wywy.com
 adups.cn
 adservice.google.de adservice.google.com
+events.gfe.nvidia.com
+edgecast-test.ora.tv
+hipcam.net
+services.zinio.com
+
+
 #ad distribution networks
