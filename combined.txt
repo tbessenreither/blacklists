@@ -15594,7 +15594,7 @@ www.cloud.acer.com
 
 #Tracker List
 
-# [utorrent]
+# [unwanted]
 #swiftkey domains
 touchtype-fluency.com
 bibo.api.swiftkey.com
@@ -15612,7 +15612,7 @@ dm.isnssdk.com
 client_monitor.isnssdk.com
 #other
 birthdaysapp.openme.com
-# [utorrent]
+# [unwanted]
 
 # [utorrent]
 0.0.0.0 bundles.bittorrent.com
