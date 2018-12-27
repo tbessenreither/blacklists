@@ -38,6 +38,11 @@ a list containing domains of tracking software and services
 
 https://bitbucket.org/tbessenreither/blacklists/raw/tip/tracker.txt
 
+##unwanted
+Domains that are not needed by companies i don't trust
+
+https://bitbucket.org/tbessenreither/blacklists/raw/tip/unwanted.txt
+
 ##utorrent
 disables adds and anoying stuff in utorrent
 

@@ -18,6 +18,7 @@ events.gfe.nvidia.com
 edgecast-test.ora.tv
 hipcam.net
 services.zinio.com
-
-
+service.cmp.oath.com
+s.aolcdn.com
+ganon.yahoo.com
 #ad distribution networks

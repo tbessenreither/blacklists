@@ -18,8 +18,9 @@ events.gfe.nvidia.com
 edgecast-test.ora.tv
 hipcam.net
 services.zinio.com
-
-
+service.cmp.oath.com
+s.aolcdn.com
+ganon.yahoo.com
 #ad distribution networks
 
 #malicious
@@ -68,7 +69,6 @@ solitaire-tm-basic-v3-lb.tuanguwen.com
 acernidus-web.appspot.com
 house.aatkit.com
 adups.cn
-services.zinio.com
 #mobilegames
 
 
@@ -15593,6 +15593,26 @@ wifi-test.mobidia.com
 www.cloud.acer.com
 
 #Tracker List
+
+# [utorrent]
+#swiftkey domains
+touchtype-fluency.com
+bibo.api.swiftkey.com
+tigger-citadel.touchtype-fluency.com
+#isnssdk
+isnssdk.com
+cdn.isnssdk.com
+a15-tb.isnssdk.com
+i16-tb.isnssdk.com
+isub-tb.isnssdk.com
+log-tb.isnssdk.com
+ichannel-tb.isnssdk.com
+open.isnssdk.com
+dm.isnssdk.com
+client_monitor.isnssdk.com
+#other
+birthdaysapp.openme.com
+# [utorrent]
 
 # [utorrent]
 0.0.0.0 bundles.bittorrent.com

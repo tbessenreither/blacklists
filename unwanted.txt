@@ -1,0 +1,20 @@
+
+# [utorrent]
+#swiftkey domains
+touchtype-fluency.com
+bibo.api.swiftkey.com
+tigger-citadel.touchtype-fluency.com
+#isnssdk
+isnssdk.com
+cdn.isnssdk.com
+a15-tb.isnssdk.com
+i16-tb.isnssdk.com
+isub-tb.isnssdk.com
+log-tb.isnssdk.com
+ichannel-tb.isnssdk.com
+open.isnssdk.com
+dm.isnssdk.com
+client_monitor.isnssdk.com
+#other
+birthdaysapp.openme.com
+# [utorrent]
