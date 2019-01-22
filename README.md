@@ -28,6 +28,11 @@ disables advertisements in the classic Skype ui
 
 https://bitbucket.org/tbessenreither/blacklists/raw/tip/skype.txt
 
+##smart_home_dumbed_down
+Make smart home devices dumb again!
+
+https://bitbucket.org/tbessenreither/blacklists/raw/tip/smart_home_dumbed_down.txt
+
 ## spybot_snd
 my age old spybot search and destroy blacklist i use since Windows XP
 
