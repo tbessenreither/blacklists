@@ -1,6 +1,9 @@
 
 #Mistyped
-127.0.0.1 amazo.de www.amazo.de
-127.0.0.1 pihole.net www.pihole.net
-127.0.0.1 criticalrole.com www.criticalrole.com
+amazo.de
+www.amazo.de
+pihole.net
+www.pihole.net
+criticalrole.com
+www.criticalrole.com
 #Mistyped
