@@ -7,4 +7,37 @@ gamesight.io
 wifi-test.mobidia.com
 www.cloud.acer.com
 
+#microsoft windows telemetry
+#src: https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Analyse_Telemetriekomponente.pdf?__blob=publicationFile&v=5
+#Ireland (IRL), Dublin
+geo.settings-win.data.microsoft.com.akadns.net
+db5-eap.settings-win.data.microsoft.com.akadns.net
+settings-win.data.microsoft.com
+db5.settings-win.data.microsoft.com.akadns.net
+asimov-win.settings.data.microsoft.com.akadns.net
+#Ireland (IRL), Dublin
+db5.vortex.data.microsoft.com.akadns.net
+v10-win.vortex.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com
+#Virginia (US), Boyton
+us.vortex-win.data.microsoft.com
+#Netherlands (NL), Amsterdam
+eu.vortex-win.data.microsoft.com
+#California (US), Los Angeles
+vortex-win-sandbox.data.microsoft.com
+#California (US), Los Angeles
+alpha.telemetry.microsoft.com
+#Wyoming (US), Cheyenne
+oca.telemetry.microsoft.com
+#Iowa (US), Des Moines
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+#Virginia (US), Boydton
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+#Washington (US), Redmond
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
+
 #Tracker List
