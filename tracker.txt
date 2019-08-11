@@ -40,4 +40,16 @@ eaus2watcab02.blob.core.windows.net
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 
+#Meetrics
+.s400.meetrics.net
+
+#rewe-reisen
+cdn.foxpush.net
+rewe-reisende.foxpush.net
+metrics.rewe-reisen.de
+rewereisen.btttag.com
+
+#other
+telemetry.sdk.inmobi.com
+
 #Tracker List
