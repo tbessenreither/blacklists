@@ -21,6 +21,7 @@ services.zinio.com
 service.cmp.oath.com
 s.aolcdn.com
 ganon.yahoo.com
+outcome-ssp.supersonicads.com
 #ad distribution networks
 
 #malicious
@@ -63,6 +64,8 @@ pihole.net
 www.pihole.net
 criticalrole.com
 www.criticalrole.com
+minecraft.com
+www.minecraft.com
 #Mistyped
 
 #mobilegames
@@ -15632,6 +15635,18 @@ eaus2watcab02.blob.core.windows.net
 #Washington (US), Redmond
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
+
+#Meetrics
+.s400.meetrics.net
+
+#rewe-reisen
+cdn.foxpush.net
+rewe-reisende.foxpush.net
+metrics.rewe-reisen.de
+rewereisen.btttag.com
+
+#other
+telemetry.sdk.inmobi.com
 
 #Tracker List
 

@@ -21,4 +21,5 @@ services.zinio.com
 service.cmp.oath.com
 s.aolcdn.com
 ganon.yahoo.com
+outcome-ssp.supersonicads.com
 #ad distribution networks

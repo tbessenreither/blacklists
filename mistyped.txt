@@ -6,4 +6,6 @@ pihole.net
 www.pihole.net
 criticalrole.com
 www.criticalrole.com
+minecraft.com
+www.minecraft.com
 #Mistyped
