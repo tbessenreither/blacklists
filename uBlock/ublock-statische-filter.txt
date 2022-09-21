@@ -139,7 +139,7 @@ w2g.tv##.w2g-cas-ad
 www.youtube.com##ytd-guide-section-renderer:has([title="YouTube Premium"])
 www.youtube.com##ytd-guide-entry-renderer:has([href="/feed/explore"])
 www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
-##ytd-guide-section-renderer:has(yt-formatted-string:has-text(Lehrinhalte))
+www.youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(Lehrinhalte))
 
 ! 2022-06-23 https://www.heise.de
 www.heise.de##li>article:has(svg.a-article-meta__heiseplus-logo)
