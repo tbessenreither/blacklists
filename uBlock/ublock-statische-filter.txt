@@ -98,6 +98,11 @@ w2g.tv##.w2g-cas-ad
 9gag.com##article:has([href^="/tag/transgender"])
 9gag.com##article:has([href^="/tag/conspiracy"])
 9gag.com##article:has([href^="/tag/royal"])
+9gag.com##article:has([href^="/tag/feminists"])
+9gag.com##article:has([href^="/tag/triggered"])
+9gag.com##article:has([href^="/tag/simp"])
+9gag.com##article:has([href^="/tag/world-cup"])
+9gag.com##article:has([href^="/tag/football"])
 
 
 9gag.com##article:has-text(9GAGGER)
@@ -133,6 +138,8 @@ w2g.tv##.w2g-cas-ad
 9gag.com##article:has-text(DALL-E)
 9gag.com##article:has-text(A.I)
 9gag.com##article:has-text(GTA)
+9gag.com##article:has-text(mushroom cloud)
+9gag.com##article:has-text(Moscow)
 
 
 ! 2022-06-19 https://www.youtube.com
