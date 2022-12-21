@@ -1,12 +1,16 @@
 ! 2021-10-27 https://de.wikipedia.org
 de.wikipedia.org##.cn-fundraising
 
+
 ! 2022-05-04 https://w2g.tv
 w2g.tv##.w2g-cas-ad
 
+
 ! https://9gag.com
+9gag.com##.campaign-banner
 9gag.com##article:has(a.promoted)
 9gag.com##.post-action-comment
+
 9gag.com##article:has(.youtube-post)
 9gag.com##article:has([href^="/tag/india"])
 9gag.com##article:has([href^="/tag/music"])
@@ -147,6 +151,8 @@ www.youtube.com##ytd-guide-section-renderer:has([title="YouTube Premium"])
 www.youtube.com##ytd-guide-entry-renderer:has([href="/feed/explore"])
 www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
 www.youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(Lehrinhalte))
+www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+
 
 ! 2022-06-23 https://www.heise.de
 www.heise.de##li>article:has(svg.a-article-meta__heiseplus-logo)
@@ -155,6 +161,10 @@ www.heise.de##.topnavigation__heiseplus-logo
 www.heise.de##aside:has([href*="spiele.heise"])
 www.heise.de##aside:has([href*="tarifrechner.heise"])
 
+
 ! 2022-07-19 https://www.golem.de
 www.golem.de##li:has(h3.golemplus)
 
+
+! 2022-12-17 https://ifttt.com
+ifttt.com##div:has([class^=hello_styles__popup-container])
