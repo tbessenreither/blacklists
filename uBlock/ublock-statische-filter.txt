@@ -152,6 +152,7 @@ www.youtube.com##ytd-guide-entry-renderer:has([href="/feed/explore"])
 www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
 www.youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(Lehrinhalte))
 www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-rich-section-renderer:has([id="title"]:has-text("Shorts"))
 
 
 ! 2022-06-23 https://www.heise.de
