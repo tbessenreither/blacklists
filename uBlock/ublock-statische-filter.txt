@@ -1,10 +1,14 @@
 ! 2021-10-27 https://de.wikipedia.org
 de.wikipedia.org##.cn-fundraising
-
+de.wikipedia.org###wmde-banner-app
 
 ! 2022-05-04 https://w2g.tv
 w2g.tv##.w2g-cas-ad
 
+
+! 2023-10-12 https://www.youtube.com Adblockblocker
+www.youtube.com##tp-yt-iron-overlay-backdrop.opened
+www.youtube.com##ytd-popup-container:has(ytd-enforcement-message-view-model):has-text("Werbeblocker")
 
 ! https://9gag.com
 9gag.com##.campaign-banner
