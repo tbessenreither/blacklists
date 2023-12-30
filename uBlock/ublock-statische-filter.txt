@@ -173,10 +173,14 @@ www.heise.de##li>article:has(.a-article-meta__text:has-text(heise-Angebot))
 www.heise.de##.topnavigation__heiseplus-logo
 www.heise.de##aside:has([href*="spiele.heise"])
 www.heise.de##aside:has([href*="tarifrechner.heise"])
+www.heise.de##ul.archive__list > li:has(.heise-plus-symbol)
+www.heise.de##.theme-heiseplus.xl\:z-\[var\(--z-index-sticky-footer--desktop\)\].z-\[var\(--z-index-sticky-footer\)\].inset-x-0.group-open
 
 
 ! 2022-07-19 https://www.golem.de
 www.golem.de##li:has(h3.golemplus)
+www.golem.de##ol.list-articles>li.golemplus
+www.golem.de##ol.list-articles > li:has-text('solange der Vorrat reicht')
 
 
 ! 2022-12-17 https://ifttt.com
