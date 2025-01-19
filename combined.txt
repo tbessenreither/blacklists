@@ -55,6 +55,8 @@ prebid.adnxs.com
 venatusmedia-d.openx.net
 5603651.fls.doubleclick.net
 e-aldi.ga www.e-aldi.ga
+orcaslicer.net
+orcaslicer.info
 #malicious
 
 #Mistyped
