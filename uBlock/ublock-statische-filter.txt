@@ -12,20 +12,26 @@ www.youtube.com##ytd-popup-container:has(ytd-enforcement-message-view-model):has
 
 
 ! 2022-06-19 https://www.youtube.com
-www.youtube.com##.ytd-mini-guide-entry-renderer:has-text('Shorts')
 www.youtube.com##ytd-rich-item-renderer:has-text(Anzeige)
 www.youtube.com##ytd-guide-section-renderer:has([title="YouTube Premium"])
 www.youtube.com##ytd-guide-entry-renderer:has([href="/feed/explore"])
-www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
 www.youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(Lehrinhalte))
-www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
-www.youtube.com##ytd-rich-section-renderer:has([id="title"]:has-text("Shorts"))
-www.youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
 www.youtube.com##ytd-shelf-renderer:has-text("Ähnliche Suchanfragen")
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text("Ähnliche Suchanfragen")
 www.youtube.com##ytd-shelf-renderer:has-text("Aus ähnlichen Suchanfragen")
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text("Aus ähnlichen Suchanfragen")
-www.youtube.com##ytd-compact-video-renderer:has-text('MrBeast')
+! Shorts
+www.youtube.com##.ytd-mini-guide-entry-renderer:has-text('Shorts')
+www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
+www.youtube.com####ytd-reel-shelf-renderer:has-text(Shorts)
+www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-rich-section-renderer:has([id="title"]:has-text("Shorts"))
+www.youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has(badge-shape):has-text("SHORTS")
+! Accounts
+www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has([href="/@lus"])
+www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has-text("GronkhReacts")
+www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has-text("MrBeast")
 
 
 ! 2022-06-23 https://www.heise.de
