@@ -25,10 +25,6 @@ www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
 www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
 www.youtube.com##ytd-rich-section-renderer:has([id="title"]:has-text("Shorts"))
 www.youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
-! Accounts
-www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has([href="/@lus"])
-www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has-text("GronkhReacts")
-www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has-text("MrBeast")
 
 
 ! 2022-06-23 https://www.heise.de
