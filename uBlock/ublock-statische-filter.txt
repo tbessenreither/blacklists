@@ -21,13 +21,11 @@ www.youtube.com##ytd-horizontal-card-list-renderer:has-text("Ähnliche Suchanfra
 www.youtube.com##ytd-shelf-renderer:has-text("Aus ähnlichen Suchanfragen")
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text("Aus ähnlichen Suchanfragen")
 ! Shorts
-www.youtube.com##.ytd-mini-guide-entry-renderer:has-text('Shorts')
 www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
 www.youtube.com####ytd-reel-shelf-renderer:has-text(Shorts)
 www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
 www.youtube.com##ytd-rich-section-renderer:has([id="title"]:has-text("Shorts"))
 www.youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
-www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has(badge-shape):has-text("SHORTS")
 ! Accounts
 www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has([href="/@lus"])
 www.youtube.com##ytd-video-renderer,ytd-compact-video-renderer:has-text("GronkhReacts")
